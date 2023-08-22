@@ -1,7 +1,7 @@
 title: PDESoft 2024
 preposition: at
 description: >-
-  Conference from 1-5 July 2024 in Cambridge, UK
+  Conference and workshop from 1-5 July 2024 in Cambridge, UK
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -56,21 +56,21 @@ conference:
   lang: en
 
   # Show theme errors:
-  show_errors: True
+  show_errors: False
 
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
-      # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      name: Excalibur SysGenX
+      img: 'excalibur-logo-1018-mini.png'
+      url: 'https://excalibur-sysgenx.github.io/'
     links:
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: Talks
+      #   relative_url: /talks/
+      # - name: Speakers
+      #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
       
@@ -85,30 +85,30 @@ conference:
   # Main landing page
   main:
     # logo:
-    #   img: ''
+    #   img: 'excalibur-logo-1018-mini.png'
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: false
-        absolute_url: 'eventbrite.com'
+      # - name: Program
+      #   relative_url: /program/
+      # - name: How to get there
+      #   relative_url: /location/
+      # - name: Tickets
+      #   disabled: false
+      #   absolute_url: 'https://www.cam.ac.uk'
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
-      color: primary
-      main_only: true
-      text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+    # - title: Welcome to PDESoft 2024
+    #   color: primary
+    #   main_only: true
+    #   text: |
+    #     The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-        ---
+    #     ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
+    #     See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+    - text: Call for abstracts will open soon.
       color: warning
-      pages_only: true
+      pages_only: false
 
   # Live indications
   live:
@@ -116,7 +116,7 @@ conference:
     timezone: GMT+1
     stop:       240  # in minutes
     streaming:
-      enable: true
+      enable: false
       pause:     60  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
@@ -126,12 +126,13 @@ conference:
       pause:     10  # in seconds
 
   talks:
+    hidden: true
     # Talk categories
-    main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
-        color: success
+    # main_categories:
+    #   - name: Solvers
+    #     color: info
+    #   - name: Numerical Methods
+    #     color: success
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -157,6 +158,7 @@ conference:
       #   - Thunderforest.Neighbourhood
       #   - Esri.WorldTopoMap
       map_provider: "OpenStreetMap.Mapnik"
+      # map_provider: "Esri.WorldTopoMap"
       default_zoom: 17
 
   program:

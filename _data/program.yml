@@ -1,25 +1,20 @@
 days:
 - name: Monday
-  abbr: Mo
-  date: 2020-01-31
+  abbr: Mon
+  date: 2024-07-01
   rooms:
-  - name: Room A
-    talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
+  - name: Suite 2
+  
+- name: Tuesday
+  abbr: Tue  
+  date: 2024-07-02
+  rooms:
+  - name: Suite 2
 
-  - name: Room B
-    talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+- name: Wednesday
+  abbr: Wed  
+  date: 2024-07-03
+  rooms:
+  - name: Suite 2
+  
+  

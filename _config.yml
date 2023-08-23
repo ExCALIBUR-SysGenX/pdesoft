@@ -2,7 +2,7 @@ title: PDESoft 2024
 preposition: at
 description: >-
   Conference and workshop from 1-5 July 2024 in Cambridge, UK
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "pdesoft" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"

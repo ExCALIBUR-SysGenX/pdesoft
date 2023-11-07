@@ -106,9 +106,9 @@ conference:
     #     ---
 
     #     See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: Call for abstracts will open soon.
-      color: warning
-      pages_only: false
+    #  - text: Call for abstracts will open soon.
+    #    color: warning
+    #    pages_only: false
 
   # Live indications
   live:

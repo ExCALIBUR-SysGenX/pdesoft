@@ -1,3 +1,5 @@
+Gemfile.lock
+    
 ### Jekyll ###
 _site/
 .sass-cache/
@@ -14,3 +16,6 @@ venv/
 
 ### MacOS ###
 .DS_Store
+
+# nano
+.*.swp

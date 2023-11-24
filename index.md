@@ -23,7 +23,23 @@ then this conference is for you.
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick, and PDESoft 2018 in Bergen.
 
-### Local organising committee
+&nbsp;
+
+## Talks and posters
+If you wish to present a talk or poster at PDESoft 2024, you can use the [form on the Talk/poster submission page](/submit/) to propose one.
+PDESoft 2024 will emphasise an open and inclusive atmosphere, and we encourage proposals from a diverse range of scientific areas and backgrounds.
+
+&nbsp;
+
+## Code of conduct
+We request that all conference attendees adhere to [our code of conduct (based on the Contributor Covenant)](/code-of-conduct/).
+Any issues and concerns can be raised
+by approaching any of the conference organisers at the conference,
+or by contacting the team at **conduct@pdesoft.org**
+
+&nbsp;
+
+## Local organising committee
 - Jack Betteridge, Imperial College London
 - Joe Dean, University of Cambridge
 - Chris Richardson, University of Cambridge
@@ -31,7 +47,9 @@ PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in Müenster, P
 - Nirav Shah, University of Cambridge
 - Garth Wells, University of Cambridge
 
-### Scientific committee
+&nbsp;
+
+## Scientific committee
 
 - Jed Brown, University of Colorado
 - Donna Calhoun, Boise State University

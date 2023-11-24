@@ -73,8 +73,10 @@ conference:
       #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
-        - name: Talk/poster submission
+      - name: Talk/poster submission
         relative_url: /submit/
+      - name: Code of conduct
+        relative_url: /code-of-conduct/
 
   # Link Preview for Sharing
   link_preview:

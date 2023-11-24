@@ -23,6 +23,14 @@ then this conference is for you.
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick, and PDESoft 2018 in Bergen.
 
+### Local organising committee
+- Jack Betteridge, Imperial College London
+- Joe Dean, University of Cambridge
+- Chris Richardson, University of Cambridge
+- Matthew Scroggs, University College London
+- Nirav Shah, University of Cambridge
+- Garth Wells, University of Cambridge
+
 ### Scientific committee
 
 - Jed Brown, University of Colorado

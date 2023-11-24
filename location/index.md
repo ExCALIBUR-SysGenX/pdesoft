@@ -1,6 +1,5 @@
 ---
-layout: default
-
+layout: location
 ---
 
 The conference will be located in the Møller Centre at Churchill College, Storey's Way, Cambridge CB3 0DE, UK.

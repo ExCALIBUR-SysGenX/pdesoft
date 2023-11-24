@@ -2,9 +2,26 @@
 layout: home
 ---
 
-PDE Software Frameworks (PDESoft) brings together researchers and developers who are involved in software for Partial Differential Equations (PDEs).
+![Cambridge](/assets/images/cambridge-stock-image.jpg)
 
-PDESoft started in Münster, Germany in 2012, and has been held every two years (excepting 2020 and 2022).
+The numerical solution of partial differential equations (PDEs) has important applications in a wide range of fields. Simulation codes are used to forecast the weather, predict the flow field around aircraft in aerospace engineering, and compute the propagation of ultrasonic waves in high-intensity focused ultrasound tumour ablation, amongst many other examples.
+
+The development of highly performative, usable, rigorously engineered and extensively tested PDE software frameworks is key to allowing the wide use of more advanced numerical methods on sophisticated parallel hardware.
+
+PDESoft 2024 is an opportunity for the developers of any of the diverse stages of PDE software tools to come together to discuss current and future directions of research.
+
+If you develop:
+
+* meshing tools;
+* solvers for large systems of equations;
+* numerical PDE solvers;
+* data visualisation systems;
+* user interfaces to scientific software;
+* any other part of the PDE toolchain;
+
+then this conference is for you.
+
+PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick, and PDESoft 2018 in Bergen.
 
 ### Scientific committee
 
@@ -22,22 +39,3 @@ PDESoft started in Münster, Germany in 2012, and has been held every two years 
 - Garth Wells, University of Cambridge
 - Michèle Weiland, Edinburgh Parallel Computing Centre
 - Ulrike Yang, Lawrence Livermore National Laboratory
-
-### Topics
-
-* Interface design & modular programming
-* HPC in heterogeneous environments/GPU-programming
-* Numerical schemes for modern hardware
-* Multi-domain and multi-physics coupling concepts
-* Open source numerical libraries
-* Rapid prototyping
-
-* Efficient solvers
-* Solvers for large systems of equations
-* Numerical PDE solvers
-
-* Reproducible science
-* Complex applications
-* Meshing tools
-* Data visualisation systems
-* User interfaces to scientific software

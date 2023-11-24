@@ -14,7 +14,6 @@ The [Møller Centre](https://conferences.chu.cam.ac.uk/the-moller-institute/) li
 
 If arriving by public transport, the railway station is about 3 miles away, and it is recommended to take a taxi to the college. The Universal "U" bus service also runs from the station to Madingley Road (alight at Storeys Way).
 
+## Accommodation
 
-
-
-
+A limited number of rooms are available at the Møller Centre which can be booked directly (more information to follow). Hyatt Centric Cambridge is nearby.

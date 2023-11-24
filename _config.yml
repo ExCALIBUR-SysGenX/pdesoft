@@ -73,7 +73,9 @@ conference:
       #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
-      
+        - name: Talk/poster submission
+        relative_url: /submit/
+
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions

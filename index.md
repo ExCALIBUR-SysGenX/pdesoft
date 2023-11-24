@@ -21,6 +21,8 @@ If you develop:
 
 then this conference is for you.
 
+PDESoft 2024 will be held in [the Møller Centre at Churchill College, Cambridge](/location/).
+
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick, and PDESoft 2018 in Bergen.
 
 &nbsp;

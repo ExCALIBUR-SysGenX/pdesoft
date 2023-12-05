@@ -33,14 +33,6 @@ PDESoft 2024 will emphasise an open and inclusive atmosphere, and we encourage p
 
 &nbsp;
 
-## Code of conduct
-We request that all conference attendees adhere to [our code of conduct (based on the Contributor Covenant)](/code-of-conduct/).
-Any issues and concerns can be raised
-by approaching any of the conference organisers at the conference,
-or by contacting the team at **conduct@pdesoft.org**
-
-&nbsp;
-
 ## Local organising committee
 - Jack Betteridge, Imperial College London
 - Joe Dean, University of Cambridge
@@ -67,3 +59,11 @@ or by contacting the team at **conduct@pdesoft.org**
 - Garth Wells, University of Cambridge
 - Michèle Weiland, Edinburgh Parallel Computing Centre
 - Ulrike Yang, Lawrence Livermore National Laboratory
+
+&nbsp;
+
+## Code of conduct
+We request that all conference attendees adhere to [our code of conduct (based on the Contributor Covenant)](/code-of-conduct/).
+Any issues and concerns can be raised
+by approaching any of the conference organisers at the conference,
+or by contacting the team at **conduct@pdesoft.org**

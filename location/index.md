@@ -7,7 +7,7 @@ The conference will be located in the [Møller Centre](https://www.mollerinstitu
 
 ## Travel to UK
 
-If travelling from overseas, you may need a visa or visa waiver. Please check the [UK government rules](https://www.gov.uk/visit-uk-business-trip). We can supply an invitation letter, on application by email to [Hilde Hambro](hh463@cam.ac.uk).
+If travelling from overseas, you may need a visa or visa waiver. Please check the [UK government rules](https://www.gov.uk/visit-uk-business-trip). We can supply an invitation letter, on application by email to [Hilde Hambro](mailto:hh463@cam.ac.uk).
 
 ## Travel to Cambridge
 

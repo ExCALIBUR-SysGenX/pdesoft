@@ -4,48 +4,46 @@ layout: home
 
 ![Cambridge](/assets/images/cambridge-stock-image.jpg)
 
-The numerical solution of partial differential equations (PDEs) has
-important applications in a wide range of fields. Simulation codes are
-used to forecast the weather, predict the flow field around aircraft in
-aerospace engineering, and compute the propagation of ultrasonic waves
-in high-intensity focused ultrasound tumour ablation, amongst many other
-examples.
+The numerical solution of partial differential equations (PDEs) is
+important across a wide range of fields. Simulation codes underpin this
+need and are employed in many areas of science and engineering, from
+forecasting the weather, to predicting the flow field around aircraft,
+through to predictive simulations for biomedical applications, amongst
+many other examples.
 
-The development of highly performative, usable, rigorously engineered
-and extensively tested PDE software frameworks is key to allowing the
-wide use of more advanced numerical methods on sophisticated parallel
-hardware.
+PDESoft 2024 is an opportunity for users and developers of software
+tools for solving PDEs and allied areas to come together to present and
+discuss current and future directions of research.
 
-PDESoft 2024 is an opportunity for the developers of any of the diverse
-stages of PDE software tools to come together to discuss current and
-future directions of research.
+Ares of focus include:
 
-If you develop:
-
-* meshing tools;
-* solvers for large systems of equations;
 * numerical PDE solvers;
-* data visualisation systems;
-* user interfaces to scientific software;
-* any other part of the PDE toolchain;
+* new and novel software tools for solving PDEs, including machine
+  learning techniques
+* parallel and high-performance computing, including at exascale
+* algorithmic and software techniques for novel hardware
+* numerical linear algebra and preconditioning
+* model order reduction
+* meshing tools
+* data visualisation
+* user interfaces to scientific softwar;
+* any other part of the PDE toolchain
 
-then this conference is for you.
-
-PDESoft 2024 will be held in [the Møller Centre at Churchill College,
-Cambridge](/location/).
+PDESoft 2024 will be held at the [Møller Centre](/location/), Churchill
+College, Cambridge].
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in
-Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick, and
+Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick and
 PDESoft 2018 in Bergen.
 
 &nbsp;
 
 ## Talks and posters
-If you wish to present a talk or poster at PDESoft 2024, you can use the
-[form on the Talk/poster submission page](/submit/) to propose one.
-PDESoft 2024 will emphasise an open and inclusive atmosphere, and we
-encourage proposals from a diverse range of scientific areas and
-backgrounds.
+
+To present a talk or poster at PDESoft 2024, use [form on the
+Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
+open and inclusive atmosphere, and we encourage proposals from a diverse
+range of scientific areas and backgrounds.
 
 &nbsp;
 
@@ -79,6 +77,7 @@ backgrounds.
 &nbsp;
 
 ## Code of conduct
+
 We request that all conference attendees adhere to [our code of conduct
 (based on the Contributor Covenant)](/code-of-conduct/). Any issues and
 concerns can be raised by approaching any of the conference organisers

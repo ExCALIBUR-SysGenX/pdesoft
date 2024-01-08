@@ -26,14 +26,14 @@ Areas of focus include:
 * model order reduction
 * meshing tools
 * data visualisation
-* user interfaces to scientific softwar;
+* user interfaces to scientific software
 * any other part of the PDE toolchain
 
 PDESoft 2024 will be held at the [Møller Centre](/location/), Churchill
 College, Cambridge].
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in
-Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick and
+Münster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick and
 PDESoft 2018 in Bergen.
 
 &nbsp;

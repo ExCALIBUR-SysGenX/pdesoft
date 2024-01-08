@@ -30,7 +30,7 @@ Areas of focus include:
 * any other part of the PDE toolchain
 
 PDESoft 2024 will be held at the [Møller Centre](/location/), Churchill
-College, Cambridge].
+College, Cambridge.
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in
 Münster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick and

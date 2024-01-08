@@ -11,7 +11,7 @@ forecasting the weather, to predicting the flow field around aircraft,
 through to predictive simulations for biomedical applications, amongst
 many other examples.
 
-PDESoft 2024 is an opportunity for users and developers of software
+PDESoft 2024 conference is an opportunity for users and developers of software
 tools for solving PDEs and allied areas to come together to present and
 discuss current and future directions of research.
 

@@ -11,13 +11,13 @@ forecasting the weather, to predicting the flow field around aircraft,
 through to predictive simulations for biomedical applications, amongst
 many other examples.
 
-PDESoft 2024 is an opportunity for users and developers of software
+PDESoft 2024 conference is an opportunity for users and developers of software
 tools for solving PDEs and allied areas to come together to present and
 discuss current and future directions of research.
 
 Ares of focus include:
 
-* numerical PDE solvers;
+* numerical PDE solvers
 * new and novel software tools for solving PDEs, including machine
   learning techniques
 * parallel and high-performance computing, including at exascale
@@ -26,11 +26,11 @@ Ares of focus include:
 * model order reduction
 * meshing tools
 * data visualisation
-* user interfaces to scientific softwar;
+* user interfaces to scientific software
 * any other part of the PDE toolchain
 
 PDESoft 2024 will be held at the [Møller Centre](/location/), Churchill
-College, Cambridge].
+College, Cambridge.
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in
 Müenster, PDESoft 2014 in Heidelberg, PDESoft 2016 in Warwick and

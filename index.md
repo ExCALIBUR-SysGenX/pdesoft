@@ -17,7 +17,7 @@ discuss current and future directions of research.
 
 Areas of focus include:
 
-* numerical PDE solvers;
+* numerical PDE solvers
 * new and novel software tools for solving PDEs, including machine
   learning techniques
 * parallel and high-performance computing, including at exascale

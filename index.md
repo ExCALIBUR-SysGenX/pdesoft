@@ -15,7 +15,7 @@ PDESoft 2024 is an opportunity for users and developers of software
 tools for solving PDEs and allied areas to come together to present and
 discuss current and future directions of research.
 
-Ares of focus include:
+Areas of focus include:
 
 * numerical PDE solvers;
 * new and novel software tools for solving PDEs, including machine
@@ -40,7 +40,7 @@ PDESoft 2018 in Bergen.
 
 ## Talks and posters
 
-To present a talk or poster at PDESoft 2024, use [form on the
+To present a talk or poster at PDESoft 2024, use the [form on the
 Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
 open and inclusive atmosphere, and we encourage proposals from a diverse
 range of scientific areas and backgrounds.

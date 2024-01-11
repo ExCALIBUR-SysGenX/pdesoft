@@ -22,7 +22,7 @@ More information can be found on the [travel and accomodation page](/location).
 The conference dinner will be help on 1 July in the dining hall at at Magdalene College.
 
 ![The dining hall at Magdalene College. Photo by DAVID ILIFF. License: CC BY-SA 3.0](/assets/images/magdalene.jpg)
-*The dining hall at Magdalene College. Photo by DAVID ILIFF. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)*
+<div class='caption'>The dining hall at Magdalene College. Photo by DAVID ILIFF. License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)</div>
 
 There is no formal dress code for the dinner, but we recommend something approximating
 "smart casual".

@@ -1,7 +1,13 @@
 
 
-main.container img {
+main.container img, .caption {
   max-width: 80%;
-  float: center;
+  margin: auto;
   height: auto;
+  display: block;
+}
+
+.caption }
+  margin-top:5px;
+  text-size: 80%;
 }

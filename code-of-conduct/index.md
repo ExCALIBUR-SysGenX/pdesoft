@@ -14,12 +14,12 @@ In the interest of fostering an open and welcoming environment, we as
 members of the community pledge to make participation in our community
 a harassment-free experience for everyone, regardless of age, body size,
 disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
+level of experience, education, socioeconomic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behaviour that contributes to creating a positive environment
 include:
 
 * Using welcoming and inclusive language
@@ -28,9 +28,9 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behaviour by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* The use of signalised language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
@@ -39,13 +39,13 @@ Examples of unacceptable behavior by participants include:
 ## Our Responsibilities
 
 The conference organisers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+behaviour and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behaviour.
 
 The conference organisers have the right and responsibility to remove, edit, or
 reject comments, questions, and other contributions that are not aligned to
 this Code of Conduct, or to ban temporarily or permanently any conference attendee for
-other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+other behaviours that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -54,7 +54,7 @@ any public channel where discussions related to the conference take place.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported by approaching any of the conference organisers at the conference,
 or by contacting the team at **[conduct@pdesoft.org](mailto:conduct@pdesoft.org)**. All
 complaints will be reviewed and investigated and will result in a response that

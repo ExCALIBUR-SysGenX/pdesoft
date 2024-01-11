@@ -109,6 +109,9 @@ More information can be found on the [travel and accomodation page](/location).
 - Nirav Shah, University of Cambridge
 - Garth Wells, University of Cambridge
 
+You can contact the local organising email with any questions about the conference by emailing
+**[contact@pdesoft.org](mailto:contact@pdesoft.org)**
+
 &nbsp;
 
 ## Code of conduct

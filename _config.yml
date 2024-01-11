@@ -73,7 +73,7 @@ conference:
       #   relative_url: /speakers/
       - name: Registration
         relative_url: /registration/
-      - name: Travel and accomodation
+      - name: Travel and accommodation
         relative_url: /location/
       - name: Talk/poster submission
         relative_url: /submit/

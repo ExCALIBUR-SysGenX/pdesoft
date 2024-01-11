@@ -65,9 +65,9 @@ More information can be found on the [registrations page](/registration).
 
 &nbsp;
 
-## Travel and accomodation
+## Travel and accommodation
 
-Accomodation is not included in the conference fee. We recommend one of the following options:
+Accommodation is not included in the conference fee. We recommend one of the following options:
 
 * A limited number of rooms are available at the Møller Institute: email
   [Moller.Reception@chu.cam.ac.uk](Moller.Reception@chu.cam.ac.uk), quoting the reference **KX 50727**.
@@ -78,7 +78,7 @@ Accomodation is not included in the conference fee. We recommend one of the foll
 The conference will begin at 10:00am BST on Monday 1 July and will end at 3:00pm BST on Wednesday 3 July.
 The Møller Institute is easily reachable from Cambridge rail station by bus or taxi.
 
-More information can be found on the [travel and accomodation page](/location).
+More information can be found on the [travel and accommodation page](/location).
 
 &nbsp;
 

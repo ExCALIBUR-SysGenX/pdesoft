@@ -15,8 +15,8 @@ Registration includes:
 
 The conference will begin at 10:00am BST on Monday 1 July and will end at 3:00pm BST on Wednesday 3 July.
 
-Accomodation is not included in the conference fee.
-More information can be found on the [travel and accomodation page](/location).
+Accommodation is not included in the conference fee.
+More information can be found on the [travel and accommodation page](/location).
 
 ## Conference dinner
 The conference dinner will be help on 1 July in the dining hall at Magdalene College.

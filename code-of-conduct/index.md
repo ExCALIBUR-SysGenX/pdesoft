@@ -6,7 +6,7 @@ title: Code of conduct
 PDESoft 2024 will emphasise an open and inclusive atmosphere, and we request that
 all attendees adhere to this code of conduct. Any issues and concerns can be raised
 by approaching any of the conference organisers at the conference,
-or by contacting the team at **conduct@pdesoft.org**
+or by contacting the team at **[conduct@pdesoft.org](mailto:conduct@pdesoft.org)**
 
 ## Our Pledge
 
@@ -56,7 +56,7 @@ any public channel where discussions related to the conference take place.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by approaching any of the conference organisers at the conference,
-or by contacting the team at **conduct@pdesoft.org**. All
+or by contacting the team at **[conduct@pdesoft.org](mailto:conduct@pdesoft.org)**. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The conference organisers are
 obligated to maintain confidentiality with regard to the reporter of an incident.

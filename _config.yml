@@ -1,4 +1,4 @@
-title: PDESoft 2024
+title: PDESoft 2024 Conference
 preposition: at
 description: >-
   1-3 July 2024, Cambridge, UK
@@ -65,13 +65,15 @@ conference:
       img: 'excalibur-logo-1018-mini.png'
       url: 'https://excalibur-sysgenx.github.io/'
     links:
-      # - name: Program
+      # - name: Programme
       #   relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
-      - name: Venue
+      - name: Registration
+        relative_url: /registration/
+      - name: Travel and accomodation
         relative_url: /location/
       - name: Talk/poster submission
         relative_url: /submit/

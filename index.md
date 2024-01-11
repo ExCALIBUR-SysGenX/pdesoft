@@ -45,13 +45,15 @@ Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
 open and inclusive atmosphere, and we encourage proposals from a diverse
 range of scientific areas and backgrounds.
 
+The deadline for submissions is **17 May 2024**
+
 &nbsp;
 
 ## Registration
 
 Registration to attend PDESoft 2024 is open, and can be completed via the
 [University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024).
-The early bird registration fee is £350 and ends on 15 June 2024. Registration includes:
+The early bird registration fee is £350 and ends on **15 June 2024**. Registration includes:
 
 * Attendance at all conference sessions.
 * Lunches at the Møller Institute.
@@ -66,7 +68,7 @@ More information can be found on the [registrations page](/register).
 Accomodation is not included in the conference fee. We recommend one of the following options:
 
 * A limited number of rooms are available at the Møller Institute: email
-  [Moller.Reception@chu.cam.ac.uk](Moller.Reception@chu.cam.ac.uk), and quote booking reference **KX 50727**.
+  [Moller.Reception@chu.cam.ac.uk](Moller.Reception@chu.cam.ac.uk), quoting the reference **KX 50727**.
 * The [Hyatt Centric](https://www.hyatt.com/shop/rooms/stnct?location=Hyatt%20Centric%20Cambridge&checkinDate=2024-06-30&checkoutDate=2024-07-02&rooms=1&adults=1&kids=0&corp_id=G-ENG1)
   is a 15 minute walk from the conference venue, and is offering a conference rate ([via this link](https://www.hyatt.com/shop/rooms/stnct?location=Hyatt%20Centric%20Cambridge&checkinDate=2024-06-30&checkoutDate=2024-07-02&rooms=1&adults=1&kids=0&corp_id=G-ENG1)).
 * [Premier Inn Cambridge North](https://www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-north-girton.html)

@@ -19,7 +19,7 @@ Accomodation is not included in the conference fee.
 More information can be found on the [travel and accomodation page](/location).
 
 ## Conference dinner
-The conference dinner will be help on 1 July in the dining hall at at Magdalene College.
+The conference dinner will be help on 1 July in the dining hall at Magdalene College.
 
 ![The dining hall at Magdalene College. Photo by DAVID ILIFF. License: CC BY-SA 3.0](/assets/images/magdalene.jpg)
 <div class='caption'>The dining hall at Magdalene College. Photo by DAVID ILIFF. License: <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en'>CC BY-SA 3.0</a></div>

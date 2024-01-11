@@ -7,7 +7,8 @@ main.container img, .caption {
   display: block;
 }
 
-.caption }
-  margin-top:5px;
+.caption {
+  margin-top:-8px;
+  margin-bottom:20px;
   text-size: 80%;
 }

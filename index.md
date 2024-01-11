@@ -59,7 +59,7 @@ The early bird registration fee is £350 and ends on **15 June 2024**. Registrat
 * Lunches at the Møller Institute.
 * Conference dinner on 1 July at Magdalene College.
 
-More information can be found on the [registrations page](/register).
+More information can be found on the [registrations page](/registration).
 
 &nbsp;
 

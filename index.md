@@ -53,7 +53,7 @@ The deadline for submissions is **17 May 2024**
 
 Registration to attend PDESoft 2024 is open, and can be completed via the
 [University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024).
-The early bird registration fee is £350 and ends on **15 June 2024**. Registration includes:
+The early bird registration fee is £350 and ends on **28 March 2024**. Registration includes:
 
 * Attendance at all conference sessions.
 * Lunches at the Møller Institute.

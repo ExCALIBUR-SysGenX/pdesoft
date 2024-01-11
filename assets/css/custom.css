@@ -10,5 +10,5 @@ main.container img, .caption {
 .caption {
   margin-top:-8px;
   margin-bottom:20px;
-  text-size: 80%;
+  font-size: 80%;
 }

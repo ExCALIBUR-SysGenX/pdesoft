@@ -104,6 +104,7 @@ More information can be found on the [travel and accommodation page](/location).
 ## Local organising committee
 - Jack Betteridge, Imperial College London
 - Joe Dean, University of Cambridge
+- Hilde Hambro, University of Cambridge
 - Chris Richardson, University of Cambridge
 - Matthew Scroggs, University College London
 - Nirav Shah, University of Cambridge

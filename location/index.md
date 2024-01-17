@@ -15,7 +15,7 @@ Cambridge has several [rail connections](https://ojp.nationalrail.co.uk/), inclu
 
 ## Getting to the Møller Institute
 
-The [Møller Institute](https://conferences.chu.cam.ac.uk/the-moller-institute/) lies within the grounds of Churchill College. Limited parking is available (*). It is important to approach from Madingley Road, due to traffic restrictions from Huntingdon Road.
+The [Møller Institute](https://conferences.chu.cam.ac.uk/the-moller-institute/) lies within the grounds of Churchill College. Limited parking is available. It is important to approach from Madingley Road, due to traffic restrictions from Huntingdon Road.
 
 If arriving by public transport, the railway station is about 3 miles away, and it is recommended to take a taxi to the college. The [Universal "U" bus service](https://www.environment.admin.cam.ac.uk/files/universal-map-oct23.pdf) also runs from the station to Madingley Road (alight at Storeys Way).
 

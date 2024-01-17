@@ -7,6 +7,8 @@ Registration to attend PDESoft 2024 is open, and can be completed via the
 [University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024).
 The early bird registration fee is £350 and ends on **28 March 2024**.
 Registrations will close on **31 May 2024**.
+If you are a member of the University of Cambridge, please get in touch with the organisers directly about internal payment.
+
 Registration includes:
 
 * Attendance at all conference sessions.
@@ -25,4 +27,3 @@ There is no formal dress code for the dinner, but we recommend something approxi
 
 ![The dining hall at Magdalene College. Photo by DAVID ILIFF. License: CC BY-SA 3.0](/assets/images/magdalene.jpg)
 <div class='caption'>The dining hall at Magdalene College. Photo by DAVID ILIFF. License: <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en'>CC BY-SA 3.0</a></div>
-

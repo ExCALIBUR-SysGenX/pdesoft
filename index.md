@@ -40,6 +40,13 @@ PDESoft 2018 in Bergen.
 
 ## Talks and posters
 
+### Invited speakers
+
+We are pleased to announce that [Joachim Schöberl](https://www.asc.tuwien.ac.at/~schoeberl/wiki/index.php/Joachim_Sch%C3%B6berl) (TU Wien) will be speaking about Netgen/NGSolve,
+and [April Novak](https://npre.illinois.edu/people/profile/ajnovak2) (University of Illinois, Urbana-Champaign) will be speaking about MOOSE and ECP.
+More information about invited speakers will be updated in the programme schedule, when published.
+
+### Submitting a presentation
 To present a talk or poster at PDESoft 2024, use the [form on the
 Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
 open and inclusive atmosphere, and we encourage proposals from a diverse
@@ -53,7 +60,6 @@ The deadline for submissions is **17 May 2024**
 
 Registration to attend PDESoft 2024 is open, and can be completed via the
 **[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)**.
-The early bird registration fee is £350 and ends on **28 March 2024**.
 Registrations will close on **31 May 2024**.
 Registration includes:
 

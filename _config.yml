@@ -107,7 +107,7 @@ conference:
       color: primary
       main_only: true
       text: |
-            Registration is open at the **[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)**, early bird rate until 28 March.
+            Registration is open at the **[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)** until 31 May.
 
     #     ---
 
@@ -154,7 +154,7 @@ conference:
     url: '/location'
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
-    
+
     map:
       # Initial map center point
       home_coord: 52.21369, 0.1017783

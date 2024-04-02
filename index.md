@@ -46,7 +46,7 @@ We are pleased to announce that [Joachim Schöberl](https://www.asc.tuwien.ac.at
 and [April Novak](https://npre.illinois.edu/people/profile/ajnovak2) (University of Illinois, Urbana-Champaign) will be speaking about MOOSE and ECP.
 More information about invited speakers will be updated in the programme schedule, when published.
 
-
+### Submitting a presentation
 To present a talk or poster at PDESoft 2024, use the [form on the
 Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
 open and inclusive atmosphere, and we encourage proposals from a diverse

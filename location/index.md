@@ -27,8 +27,7 @@ A limited number of rooms are available at the Møller Institute:
 email
 [Moller.Reception@chu.cam.ac.uk](Moller.Reception@chu.cam.ac.uk),
 booking reference **KX 50727**.
-Alternatively, the [Hyatt
-Centric](https://www.hyatt.com/shop/rooms/stnct?location=Hyatt%20Centric%20Cambridge&checkinDate=2024-06-30&checkoutDate=2024-07-02&rooms=1&adults=1&kids=0&corp_id=G-ENG1)
+Alternatively, the [Hyatt Centric](https://www.hyatt.com/en-US/group-booking/STNCT/G-ENG1)
 is 15 minutes walk away - use the link from this page to get the
 conference rate. [Premier Inn Cambridge
 North](https://www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-north-girton.html)

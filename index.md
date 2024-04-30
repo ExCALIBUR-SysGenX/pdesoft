@@ -42,9 +42,13 @@ PDESoft 2018 in Bergen.
 
 ### Invited speakers
 
-We are pleased to announce that [Joachim Schöberl](https://www.asc.tuwien.ac.at/~schoeberl/wiki/index.php/Joachim_Sch%C3%B6berl) (TU Wien) will be speaking about Netgen/NGSolve,
-and [April Novak](https://npre.illinois.edu/people/profile/ajnovak2) (University of Illinois, Urbana-Champaign) will be speaking about MOOSE and ECP.
-More information about invited speakers will be updated in the programme schedule, when published.
+We are pleased to announce that [Joachim
+Schöberl](https://www.asc.tuwien.ac.at/~schoeberl/wiki/index.php/Joachim_Sch%C3%B6berl)
+(TU Wien) will be speaking about Netgen/NGSolve,
+and [April Novak](https://npre.illinois.edu/people/profile/ajnovak2)
+(University of Illinois, Urbana-Champaign) will be speaking about
+MOOSE and ECP. [Tzanio Kolev](https://people.llnl.gov/kolev1) (LLNL)
+will talk about  MFEM and CEED.
 
 ### Submitting a presentation
 To present a talk or poster at PDESoft 2024, use the [form on the
@@ -53,6 +57,15 @@ open and inclusive atmosphere, and we encourage proposals from a diverse
 range of scientific areas and backgrounds.
 
 The deadline for submissions is **17 May 2024**
+
+### Proceedings
+
+A topical collection for PDESoft is planned to be included in the new journal
+[Computational Science and
+Engineering](https://link.springer.com/journal/44207), which has a
+focus on reproducibility with code review. We hope that many
+participants in the PDESoft conference will be able to
+contribute.
 
 &nbsp;
 

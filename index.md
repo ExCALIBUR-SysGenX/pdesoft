@@ -56,7 +56,9 @@ Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
 open and inclusive atmosphere, and we encourage proposals from a diverse
 range of scientific areas and backgrounds.
 
-The deadline for submissions is **17 May 2024**
+~~The deadline for submissions is **17 May 2024**.~~
+The deadline for submissions has been extended to **23 May 2024**.
+We will be accepting submissions for posters beyond this date.
 
 ### Proceedings
 

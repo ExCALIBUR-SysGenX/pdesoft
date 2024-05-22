@@ -4,7 +4,9 @@ title: Talk and poster submission
 ---
 
 You can use the form below to propose a talk or poster to be presented at PDESoft 2024.
-The deadline for submissions is **17 May 2024**.
+~~The deadline for submissions is **17 May 2024**.~~
+The deadline for submissions has been extended to **23 May 2024**.
+We will be accepting submissions for posters beyond this date.
 Each attendee may only give one talk, but attendees wishing to may present a talk as well as a poster.
 
 PDESoft 2024 will emphasise an open and inclusive atmosphere, and we encourage proposals from a diverse range of scientific areas and backgrounds.

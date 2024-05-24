@@ -4,6 +4,7 @@ speakers:
   - "Jørgen Schartum Dokken"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 The FEniCS project, with its foundation in 2003 has gone through many major transformations in the last two decades. Some key changes in the first decade of development was the introduction of code generation through the FEniCS form compiler, the Python interface, MPI support, and the unified form language.

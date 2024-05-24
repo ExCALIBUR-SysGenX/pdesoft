@@ -9,6 +9,7 @@ speakers:
   - "Tobias Weinzierl"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 ExaHyPE is an open-source solver engine for hyperbolic PDEs with a successful track record in diverse applications from seismology to astrophysics. We extend ExaHyPE to a wider class of problems by developing elliptic solvers using high-order discretisation and multigrid techniques.

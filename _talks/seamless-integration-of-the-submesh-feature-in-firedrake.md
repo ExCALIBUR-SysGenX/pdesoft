@@ -6,6 +6,7 @@ speakers:
   - "David A. Ham"
 categories:
   - "Talk"
+session: "13:30 - 14:45"
 ---
 
 We talk about integration of the submesh feature in Firedrake that enables one to extract parts of an existing mesh and make them work together to solve finite element problems.

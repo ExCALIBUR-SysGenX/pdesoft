@@ -4,6 +4,7 @@ speakers:
   - "Jack Betteridge"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 Memory managed languages such as Python and Julia are being used increasingly often on high performance computers (HPC) to drive extremely large, pre-exascale simulations of PDEs.

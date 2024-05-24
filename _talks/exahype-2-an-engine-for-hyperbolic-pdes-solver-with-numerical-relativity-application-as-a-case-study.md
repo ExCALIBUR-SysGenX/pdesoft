@@ -6,6 +6,7 @@ speakers:
   - "Baojiu Li"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 We present ExaHyPE 2, the second generation of the Exascale Hyperbolic PDE Solver Engine. It is a tool to implement solvers for hyperbolic PDEs given in first-order formulation, while also providing support to second-order formulation via additional mesh sweep. ExaHyPE 2 features a modular design, allowing users to easily compose their simulation systems by only specifying the evolving quantities and terms of their PDEs. Once specified, ExaHyPE assembles the simulation code hiding parallelisation, data structures, I/O, and so forth. Based upon Peano 4, the code supports dynamically adaptive meshes. The resulting application created by ExaHyPE 2 can be executed on various platforms, ranging from laptops to supercomputers, with support for MPI, OpenMP, TBB, and offloading to GPUs via OpenMP, C++ and SYCL.

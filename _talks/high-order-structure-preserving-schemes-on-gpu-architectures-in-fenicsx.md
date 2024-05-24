@@ -5,6 +5,7 @@ speakers:
   - "Garth N. Wells"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 Many established codes rely on traditional, low-order discretisations. These low-order methods have low arithmetic intensity, which is not well suited to current and future generations of high-performance computing architectures. Simulation of complex, whole-system problems will require accurate and stable methods with high arithmetic intensity, especially to exploit the coming generation of exascale computers.

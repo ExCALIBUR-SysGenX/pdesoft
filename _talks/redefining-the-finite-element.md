@@ -6,6 +6,7 @@ speakers:
   - "Patrick E. Farrell"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 A core feature of the success of the finite element method, the Ciarlet definition of the components of a finite element has been used for many years. The experience of these decades (and the subsequent implementations) has exposed several key deficiencies. In particular, Ciarlet’s definition is missing information about the global continuity of the mesh and how the degrees of freedom map to each other under the relative orientation of the mesh entities. This information is necessary to implement the finite element method, leaving scope for a new definition. 

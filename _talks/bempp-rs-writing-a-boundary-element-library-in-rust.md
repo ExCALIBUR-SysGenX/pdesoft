@@ -7,6 +7,7 @@ speakers:
   - "Srinath Kailasa"
 categories:
   - "Talk"
+session: "13:30 - 15:00"
 ---
 
 Bempp is an open source boundary element method library developed primary at UCL. In recent years, we've been writing a new version of Bempp in the programming language Rust. In this talk, I will discuss our progress toward a full boundary element library and share some details of our experience using Rust for scientific computing.

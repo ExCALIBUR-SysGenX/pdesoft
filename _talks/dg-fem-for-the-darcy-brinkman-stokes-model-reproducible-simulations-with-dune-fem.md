@@ -6,6 +6,7 @@ speakers:
   - "Julia Kowalski"
 categories:
   - "Talk"
+session: "15:30 - 17:00"
 ---
 
 Computational scientists are frequently tasked with building application oriented simulation setups on top of ever-evolving modern numerical software. Contemporary open-source frameworks, such as FEniCS and DUNE-FEM [2,3], are powerful model building tools. With their inherent flexibility, they also pass the responsibility to develop sustainable application-specific research codes on to the user.

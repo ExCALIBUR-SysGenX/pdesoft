@@ -6,6 +6,7 @@ speakers:
   - "Stefano Zampini"
 categories:
   - "Talk"
+session: "10:00 - 11:15"
 ---
 
 We present ngsPETSc, an interface between the NETGEN mesher, the finite element library

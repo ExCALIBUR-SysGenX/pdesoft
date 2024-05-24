@@ -5,6 +5,7 @@ speakers:
   - "Gunnar Birke"
 categories:
   - "Talk"
+session: "13:30 - 14:45"
 ---
 
 Since many years the DUNE framework has optional support for Cut-cell methods. In particular this requires special support for the handling of degrees of freedom, vanishing degrees of freedom and for the evaluation of integrals on cut-cells or the intersections of cut-cells.

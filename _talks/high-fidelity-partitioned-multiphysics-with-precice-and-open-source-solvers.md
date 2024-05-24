@@ -6,6 +6,7 @@ speakers:
   - "Hans-Joachim Bungartz"
 categories:
   - "Talk"
+session: "09:15 - 10:45"
 ---
 
 The open-source library preCICE allows connecting open-source solvers to solve multiphysics problems collaboratively. A minimally invasive partitioned coupling approach allows this without modifying the source code of the solvers. For fluid-structure interaction, for example, we couple the CFD toolbox OpenFOAM with the FEM library FEniCS. Behind a minimally invasive API, preCICE offers functionality for mesh mapping, efficient communication, quasi-Newton coupling acceleration, and time interpolation to simplify this process.

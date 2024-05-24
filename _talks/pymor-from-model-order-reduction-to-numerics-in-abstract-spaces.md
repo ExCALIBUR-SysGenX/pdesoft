@@ -9,6 +9,7 @@ speakers:
   - "Felix Schindler"
 categories:
   - "Talk"
+session: "09:15 - 10:45"
 ---
 
 pyMOR is a free Model Order Reduction library written in the Python programming language. All of pyMOR's algorithms are formulated in terms of operations on abstract VectorArray and Operator objects. This allows to seamlessly integrate pyMOR with various PDE solver libraries by directly utilizing the linear algebra backends of these solvers. Over the past decade, pyMOR has grown to encompass not only a large array of MOR algorithms, it also implements QR decomposition, SVD, eigensolvers, various matrix equation solvers, as well as a Newton algorithm and basic time steppers.

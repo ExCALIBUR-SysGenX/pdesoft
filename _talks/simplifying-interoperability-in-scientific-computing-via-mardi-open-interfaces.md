@@ -6,6 +6,7 @@ speakers:
   - "Mario Ohlberger"
 categories:
   - "Talk"
+session: "09:15 - 10:45"
 ---
 
 The scientific-computing community uses several different programming languages for implementing numerical solvers. Moreover, these solvers often have significantly different programming interfaces. Both of these factors impede interoperability, as switching from, say, a Python solver for time integration to another solver implemented in C requires writing bindings and adapting the calling code to different function names and the order of arguments.

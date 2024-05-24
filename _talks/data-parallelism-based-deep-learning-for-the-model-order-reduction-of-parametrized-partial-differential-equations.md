@@ -6,6 +6,7 @@ speakers:
   - "Garth N. Wells"
 categories:
   - "Talk"
+session: "09:15 - 10:45"
 ---
 
 Parametrized partial differential equations are used to model problems in engineering. Design of engineering systems is governed by physical parameters such as material properties, boundary conditions and geometric parameters such as shape of the components. In order to rapidly explore the variation in quantity of interest with respect to the physical or geometrical parameters, model order reduction is used as a computationally faster alternative with an “affordable” compromise in accuracy.

@@ -7,6 +7,7 @@ speakers:
   - "Andrew Davis"
 categories:
   - "Talk"
+session: "09:15 - 10:45"
 ---
 
 Commercially viable fusion energy is key technology for enabling a net zero future. However, a significant amount of engineering is required to convert theoretical possibility into reality and a cost effective pathway to do this is through digital engineering.

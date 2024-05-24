@@ -4,6 +4,7 @@ speakers:
   - "Robert Klöfkorn"
 categories:
   - "Talk"
+session: "10:00 - 11:15"
 ---
 
 In this talk we will give an overview on the DUNE-GRID interface and it's

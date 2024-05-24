@@ -5,6 +5,7 @@ speakers:
   - "Patrick E. Farrell"
 categories:
   - "Talk"
+session: "15:30 - 17:00"
 ---
 
 Numerical methods for the simulation of integrable systems with conservative properties are known to exhibit greater accuracy and physical reliability, in particular over long durations. In this talk, we propose a general framework for the construction of conservative schemes via finite elements in time, and the systematic introduction of auxiliary variables.

@@ -6,6 +6,7 @@ speakers:
   - "Andrea Cangiani"
 categories:
   - "Talk"
+session: "15:30 - 17:15"
 ---
 
 Agglomeration strategies are a key ingredient in polytopal methods for PDEs as they are used to generate (hierarchies of) computational grids from an initial grid. We present a novel approach to perform agglomeration of polygonal and polyhedral grids based on spatial

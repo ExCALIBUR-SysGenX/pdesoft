@@ -6,6 +6,7 @@ speakers:
   - "Andrei Shvarts"
 categories:
   - "Talk"
+session: "09:15 - 10:45"
 ---
 
 I present an application of research code to solve industrial structural integrity problems. The finite element framework for the analysis of fracture and contact problems using mixed finite element elements is developed with the support of EDF for the analysis of fractured nuclear graphite bricks. 

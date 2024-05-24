@@ -7,6 +7,7 @@ speakers:
   - "Manuel Torrilhon"
 categories:
   - "Talk"
+session: "15:30 - 17:00"
 ---
 
 In this talk, we are going to discuss the implementation of multirate time-integration schemes in the Discontinuous Galerkin Code Trixi.jl.

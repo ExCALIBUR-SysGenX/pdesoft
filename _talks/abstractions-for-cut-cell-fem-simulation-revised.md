@@ -4,7 +4,7 @@ speakers:
   - "Christian Engwer"
   - "Gunnar Birke"
 categories:
-  - "Talk"
+  - "Talks"
 session: "13:30 - 14:45"
 ---
 

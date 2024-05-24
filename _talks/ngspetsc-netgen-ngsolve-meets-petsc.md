@@ -5,7 +5,7 @@ speakers:
   - "Patrick E. Farrell"
   - "Stefano Zampini"
 categories:
-  - "Talk"
+  - "Talks"
 session: "10:00 - 11:15"
 ---
 

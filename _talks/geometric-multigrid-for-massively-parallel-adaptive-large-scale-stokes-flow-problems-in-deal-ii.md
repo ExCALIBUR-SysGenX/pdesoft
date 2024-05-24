@@ -3,7 +3,7 @@ name: "Geometric multigrid for massively parallel, adaptive, large scale Stokes 
 speakers:
   - "Timo Heister"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:15"
 ---
 

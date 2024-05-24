@@ -6,7 +6,7 @@ speakers:
   - "Fabian Laakmann"
   - "Lawrence Mitchell"
 categories:
-  - "Talk"
+  - "Talks"
 session: "13:30 - 15:00"
 ---
 

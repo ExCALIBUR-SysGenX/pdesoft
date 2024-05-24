@@ -6,7 +6,7 @@ speakers:
   - "Joseph P. Dean"
   - "Garth N. Wells"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:15"
 ---
 

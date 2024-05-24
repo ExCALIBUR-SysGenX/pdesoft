@@ -3,7 +3,7 @@ name: "An overview of the FEniCS project"
 speakers:
   - "Jørgen Schartum Dokken"
 categories:
-  - "Talk"
+  - "Talks"
 session: "13:30 - 15:00"
 ---
 

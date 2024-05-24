@@ -5,7 +5,7 @@ speakers:
   - "Timo Betcke"
   - "Matthew Scroggs"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:15"
 ---
 

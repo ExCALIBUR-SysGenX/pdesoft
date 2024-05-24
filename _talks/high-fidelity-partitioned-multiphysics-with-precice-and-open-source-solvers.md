@@ -5,7 +5,7 @@ speakers:
   - "Benjamin Uekermann"
   - "Hans-Joachim Bungartz"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

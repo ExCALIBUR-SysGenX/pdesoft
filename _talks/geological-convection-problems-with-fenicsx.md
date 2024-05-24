@@ -3,7 +3,7 @@ name: "Geological convection problems with FEniCSx"
 speakers:
   - "George Poole"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:00"
 ---
 

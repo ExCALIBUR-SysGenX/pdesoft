@@ -4,7 +4,7 @@ speakers:
   - "Aaron Baier-Reinio"
   - "Patrick E. Farrell"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

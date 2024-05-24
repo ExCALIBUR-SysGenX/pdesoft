@@ -5,7 +5,7 @@ speakers:
   - "Chris Pearce"
   - "Andrei Shvarts"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

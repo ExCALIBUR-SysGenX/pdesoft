@@ -3,7 +3,7 @@ name: "Cleaning up distributed objects in managed languages and applications in 
 speakers:
   - "Jack Betteridge"
 categories:
-  - "Talk"
+  - "Talks"
 session: "13:30 - 15:00"
 ---
 

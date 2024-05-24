@@ -2,6 +2,6 @@
 name: "Concluding remarks"
 speakers: ""
 categories:
-  - "Talk"
+  - "Talks"
 hide: true
 ---

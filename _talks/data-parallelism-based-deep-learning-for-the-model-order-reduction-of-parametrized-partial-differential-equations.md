@@ -5,7 +5,7 @@ speakers:
   - "Chris Richardson"
   - "Garth N. Wells"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

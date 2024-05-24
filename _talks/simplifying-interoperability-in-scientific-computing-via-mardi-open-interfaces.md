@@ -5,7 +5,7 @@ speakers:
   - "Stephan Rave"
   - "Mario Ohlberger"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

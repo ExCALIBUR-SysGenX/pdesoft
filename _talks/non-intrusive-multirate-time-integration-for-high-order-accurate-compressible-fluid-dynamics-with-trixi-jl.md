@@ -6,7 +6,7 @@ speakers:
   - "Gregor Gassner"
   - "Manuel Torrilhon"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:00"
 ---
 

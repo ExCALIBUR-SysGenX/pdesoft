@@ -3,7 +3,7 @@ name: "Automating convex optimization problems in FEniCSx"
 speakers:
   - "Jérémy Bleyer"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

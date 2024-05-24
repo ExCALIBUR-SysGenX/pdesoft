@@ -3,7 +3,7 @@ name: "MFEM: accelerating efficient solution of PDEs at exascale"
 speakers:
   - "Tzanio Kolev"
 categories:
-  - "Invited talk"
+  - "Invited talks"
 session: "11:15 - 12:15"
 ---
 

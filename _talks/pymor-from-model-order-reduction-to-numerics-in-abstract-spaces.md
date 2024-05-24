@@ -8,7 +8,7 @@ speakers:
   - "Jens Saak"
   - "Felix Schindler"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

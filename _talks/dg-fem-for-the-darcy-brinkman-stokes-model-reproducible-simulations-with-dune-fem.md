@@ -5,7 +5,7 @@ speakers:
   - "Mohammad Ghanem"
   - "Julia Kowalski"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:00"
 ---
 

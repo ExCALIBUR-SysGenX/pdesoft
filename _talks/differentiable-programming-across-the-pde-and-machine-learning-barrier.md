@@ -4,7 +4,7 @@ speakers:
   - "Nacime Bouziani"
   - "David A. Ham"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

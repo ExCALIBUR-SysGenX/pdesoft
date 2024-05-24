@@ -6,7 +6,7 @@ speakers:
   - "Gilbert Bernstein"
   - "Saman Amarasinghe"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:15"
 ---
 

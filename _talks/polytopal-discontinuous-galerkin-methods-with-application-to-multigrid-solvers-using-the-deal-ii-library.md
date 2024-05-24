@@ -5,7 +5,7 @@ speakers:
   - "Luca Heltai"
   - "Andrea Cangiani"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:15"
 ---
 

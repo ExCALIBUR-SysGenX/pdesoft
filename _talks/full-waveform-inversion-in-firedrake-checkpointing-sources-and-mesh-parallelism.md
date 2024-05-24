@@ -4,7 +4,7 @@ speakers:
   - "Daiane Dolci"
   - "David A. Ham"
 categories:
-  - "Talk"
+  - "Talks"
 session: "10:00 - 11:15"
 ---
 

@@ -5,7 +5,7 @@ speakers:
   - "David A. Ham"
   - "Patrick E. Farrell"
 categories:
-  - "Talk"
+  - "Talks"
 session: "13:30 - 15:00"
 ---
 

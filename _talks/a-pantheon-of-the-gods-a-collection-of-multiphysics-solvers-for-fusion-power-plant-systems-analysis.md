@@ -6,7 +6,7 @@ speakers:
   - "Helen Brooks"
   - "Andrew Davis"
 categories:
-  - "Talk"
+  - "Talks"
 session: "09:15 - 10:45"
 ---
 

@@ -5,7 +5,7 @@ speakers:
   - "Lawrence Mitchell"
   - "David A. Ham"
 categories:
-  - "Talk"
+  - "Talks"
 session: "13:30 - 14:45"
 ---
 

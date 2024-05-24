@@ -122,9 +122,9 @@ conference:
     hidden: false
     # Talk categories
     main_categories:
-      - name: Invited talk
+      - name: Invited talks
         color: success
-      - name: Talk
+      - name: Talks
         color: warning
       - name: Social
         color: danger

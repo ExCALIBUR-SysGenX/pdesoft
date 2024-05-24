@@ -2,6 +2,6 @@
 name: "Welcome to PDESoft"
 speakers: ""
 categories:
-  - "Talk"
+  - "Talks"
 hide: true
 ---

@@ -4,7 +4,7 @@ speakers:
   - "Peter Brearley"
   - "Sylvain Laizet"
 categories:
-  - "Talk"
+  - "Talks"
 session: "15:30 - 17:00"
 ---
 

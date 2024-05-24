@@ -146,3 +146,6 @@ days:
     - name: "Abstractions for cut-cell FEM simulation revised"
       time_start: "14:00"
       time_end: "14:15"
+    - name: "Concluding remarks"
+      time_start: "14:15"
+      time_end: "14:30"

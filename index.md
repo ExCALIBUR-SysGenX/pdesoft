@@ -51,14 +51,11 @@ MOOSE and ECP. [Tzanio Kolev](https://people.llnl.gov/kolev1) (LLNL)
 will talk about  MFEM and CEED.
 
 ### Submitting a presentation
-To present a talk or poster at PDESoft 2024, use the [form on the
-Talk/poster submission page](/submit/). PDESoft 2024 will emphasise an
+To present a poster at PDESoft 2024, use the [form on the
+Talk/poster submission page](/submit/).
+Submissions for talks are now closed. PDESoft 2024 will emphasise an
 open and inclusive atmosphere, and we encourage proposals from a diverse
 range of scientific areas and backgrounds.
-
-~~The deadline for submissions is **17 May 2024**.~~
-The deadline for submissions has been extended to **23 May 2024**.
-We will be accepting submissions for posters beyond this date.
 
 ### Proceedings
 

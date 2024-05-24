@@ -5,7 +5,8 @@ speakers:
 categories:
   - "Talk"
 ---
-The FEniCS project, with its foundation in 2003 has gone through many major transformations in the last two decades. Some key changes in the first decade of development was  the introduction of code generation through the FEniCS form compiler, the Python interface, MPI support, and the unified form language.
+
+The FEniCS project, with its foundation in 2003 has gone through many major transformations in the last two decades. Some key changes in the first decade of development was the introduction of code generation through the FEniCS form compiler, the Python interface, MPI support, and the unified form language.
 
 In its second decade, the code-based matured with many additional extensions including multi-mesh, mixed dimensional finite element support and goal oriented mesh refinement. However, the introduction of all these features made code maintenance more laborious.
 

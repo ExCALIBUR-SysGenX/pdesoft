@@ -40,7 +40,6 @@
               <span class="live-hide" data-start="{{ timestamp_start }}" data-end="{{ timestamp_end }}">
             {%- endif -%}
 
-            {%- include partials/get_time_pronoun.html -%}
             {%- include partials/get_talk_time.html -%}
             <span class="d-none d-sm-inline">
               {{- time_pronoun -}}
@@ -53,7 +52,7 @@
 
             {%- assign room = site.rooms | where: 'name', r.name | first -%}
             <span class="d-none d-sm-inline ml-1">
-              {{- site.data.lang[site.conference.lang].pronoun.in | default: "in" -}}
+              on
             </span> {% include partials/show_room.html -%}
 
             <span class="d-none d-sm-inline ml-1">

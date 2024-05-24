@@ -1,0 +1,6 @@
+---
+name: "Non-intrusive multirate time-integration for high-order accurate compressible fluid dynamics with Trixi.jl"
+speakers: ""
+categories:
+  - "Talk"
+---

@@ -1,0 +1,6 @@
+---
+name: "G+Smo: geometry + simulation modules for isogeometric analysis"
+speakers: ""
+categories:
+  - "Talk"
+---

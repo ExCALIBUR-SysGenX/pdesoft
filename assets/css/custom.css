@@ -12,3 +12,9 @@ main.container img, .caption {
   margin-bottom:20px;
   font-size: 80%;
 }
+
+.talk.alert-light {
+  font-weight:bold;
+  vertical-align:bottom;
+  text-align:center
+}

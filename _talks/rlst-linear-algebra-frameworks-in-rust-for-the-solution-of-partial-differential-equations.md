@@ -1,0 +1,6 @@
+---
+name: "RLST: linear algebra frameworks in Rust for the solution of partial differential equations"
+speakers: ""
+categories:
+  - "Talk"
+---

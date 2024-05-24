@@ -1,0 +1,6 @@
+---
+name: "Cleaning up distributed objects in managed languages and applications in extremely large scale PDE simulations"
+speakers: ""
+categories:
+  - "Talk"
+---

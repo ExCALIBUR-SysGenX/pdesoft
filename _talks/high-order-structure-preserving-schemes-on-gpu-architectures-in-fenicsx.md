@@ -1,0 +1,6 @@
+---
+name: "High-order, structure-preserving schemes on GPU architectures in FEniCSx"
+speakers: ""
+categories:
+  - "Talk"
+---

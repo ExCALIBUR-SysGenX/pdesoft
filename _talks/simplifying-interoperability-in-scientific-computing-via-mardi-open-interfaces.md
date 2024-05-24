@@ -1,0 +1,6 @@
+---
+name: "Simplifying interoperability in scientific computing via MaRDI open interfaces"
+speakers: ""
+categories:
+  - "Talk"
+---

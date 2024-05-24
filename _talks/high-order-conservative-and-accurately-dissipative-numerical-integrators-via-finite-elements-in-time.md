@@ -1,0 +1,6 @@
+---
+name: "High-order conservative and accurately dissipative numerical integrators via finite elements in time"
+speakers: ""
+categories:
+  - "Talk"
+---

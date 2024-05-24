@@ -1,0 +1,6 @@
+---
+name: "Differentiable programming across the PDE and machine learning barrier"
+speakers: ""
+categories:
+  - "Talk"
+---

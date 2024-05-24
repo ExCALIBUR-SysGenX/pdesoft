@@ -14,6 +14,8 @@ sass:
 
 # Additional exclude from processing
 exclude:
+  - tmp/
+  - vendor/
   - .github/
   - README.md
   - LICENSE.md
@@ -116,29 +118,20 @@ conference:
     #    color: warning
     #    pages_only: false
 
-  # Live indications
-  live:
-    date: 01.07.2024
-    timezone: GMT+1
-    stop:       240  # in minutes
-    streaming:
-      enable: false
-      pause:     60  # in minutes
-      prepend:    5  # in minutes
-      extend:     5  # in minutes
-    demo:
-      enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
-
   talks:
-    hidden: true
+    hidden: false
     # Talk categories
-    # main_categories:
-    #   - name: Solvers
-    #     color: info
-    #   - name: Numerical Methods
-    #     color: success
+    main_categories:
+      - name: Talk
+        color: warning
+      - name: Invited talk
+        color: success
+      - name: Social
+        color: danger
+      - name: Other
+        color: secondary
+      - name: Session title
+        color: light
 
     # Hide icons on talk overview page
     hide_icons: false

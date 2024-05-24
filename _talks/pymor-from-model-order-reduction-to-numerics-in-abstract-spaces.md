@@ -1,0 +1,6 @@
+---
+name: "pyMOR: From model order reduction to numerics in abstract spaces"
+speakers: ""
+categories:
+  - "Talk"
+---

@@ -3,7 +3,6 @@ name: "G+Smo: geometry + simulation modules for isogeometric analysis"
 speakers:
   - "Hugo Verhelst"
   - "Angelos Mantzaflaris"
-  - "Inria Sophia-Antipolis)"
   - "Matthias Möller"
 categories:
   - "Talk"

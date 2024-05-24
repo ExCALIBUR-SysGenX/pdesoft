@@ -3,7 +3,7 @@ name: "Data-parallelism based deep learning for the model order reduction of par
 speakers:
   - "Nirav Vasant Shah"
   - "Chris Richardson"
-  - "Garth Wells"
+  - "Garth N. Wells"
 categories:
   - "Talk"
 ---

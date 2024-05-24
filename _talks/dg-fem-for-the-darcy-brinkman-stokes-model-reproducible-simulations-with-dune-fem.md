@@ -3,9 +3,7 @@ name: "DG-FEM for the Darcy-Brinkman-Stokes model: reproducible simulations with
 speakers:
   - "Benjamin Terschanski"
   - "Mohammad Ghanem"
-  - "RWTH)"
   - "Julia Kowalski"
-  - "RWTH)"
 categories:
   - "Talk"
 ---

@@ -2,7 +2,7 @@
 name: "High-order conservative and accurately dissipative numerical integrators via finite elements in time"
 speakers:
   - "Boris Andrews"
-  - "Patrick Farrell"
+  - "Patrick E. Farrell"
 categories:
   - "Talk"
 ---

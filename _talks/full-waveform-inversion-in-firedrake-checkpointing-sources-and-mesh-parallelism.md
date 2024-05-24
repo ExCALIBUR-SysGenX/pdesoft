@@ -2,7 +2,7 @@
 name: "Full waveform inversion in Firedrake: checkpointing, sources and mesh parallelism"
 speakers:
   - "Daiane Dolci"
-  - "David Ham"
+  - "David A. Ham"
 categories:
   - "Talk"
 ---

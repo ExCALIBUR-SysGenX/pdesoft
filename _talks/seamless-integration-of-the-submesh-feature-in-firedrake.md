@@ -3,7 +3,7 @@ name: "Seamless integration of the submesh feature in Firedrake"
 speakers:
   - "Koki Sagiyama"
   - "Lawrence Mitchell"
-  - "David Ham"
+  - "David A. Ham"
 categories:
   - "Talk"
 ---

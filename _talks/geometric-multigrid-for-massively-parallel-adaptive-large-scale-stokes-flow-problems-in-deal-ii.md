@@ -1,7 +1,7 @@
 ---
 name: "Geometric multigrid for massively parallel, adaptive, large scale Stokes flow problems in deal.II"
 speakers:
-  - "Timo Heister "
+  - "Timo Heister"
 categories:
   - "Talk"
 ---

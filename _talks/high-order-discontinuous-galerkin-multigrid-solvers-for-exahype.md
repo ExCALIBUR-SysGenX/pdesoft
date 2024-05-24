@@ -3,15 +3,10 @@ name: "High-order discontinuous Galerkin multigrid solvers for ExaHyPE"
 speakers:
   - "Alexander Belozerov"
   - "Sean Baccas"
-  - "Advanced Research Computing"
   - "Alexander Belozerov"
-  - "Department of Mathematical Sciences)"
   - "Eike Mueller"
-  - "Department of Mathematical Sciences)"
   - "Dmitry Nikolaenko"
-  - "Advanced Research Computing"
   - "Tobias Weinzierl"
-  - "Department of Computer Science)"
 categories:
   - "Talk"
 ---

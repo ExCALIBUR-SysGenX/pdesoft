@@ -1,7 +1,7 @@
 ---
 name: "Robert C. Kirby"
-first_name: "TODO"
-last_name: "TODO"
+first_name: "Robert"
+last_name: "Kirby"
 affiliation: "Baylor University"
 hide: true
 ---

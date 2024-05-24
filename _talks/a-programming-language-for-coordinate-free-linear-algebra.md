@@ -2,7 +2,6 @@
 name: "A Programming Language for coordinate free linear algebra"
 speakers:
   - "Teodoro Fields Collin"
-  - "Teodoro F. Collin"
   - "Oded Stein"
   - "Gilbert Bernstein"
   - "Saman Amarasinghe"

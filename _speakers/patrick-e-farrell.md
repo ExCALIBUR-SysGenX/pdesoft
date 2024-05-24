@@ -1,7 +1,7 @@
 ---
 name: "Patrick E. Farrell"
-first_name: "TODO"
-last_name: "TODO"
+first_name: "Patrick"
+last_name: "Farrell"
 affiliation: "University of Oxford"
 hide: true
 ---

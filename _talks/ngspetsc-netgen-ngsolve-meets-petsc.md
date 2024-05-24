@@ -2,7 +2,6 @@
 name: "ngsPETSc: NETGEN/NGSolve meets PETSc"
 speakers:
   - "Umberto Zerbinati"
-  - "Umberto Zerbinati"
   - "Patrick E. Farrell"
   - "Stefano Zampini"
 categories:

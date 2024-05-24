@@ -2,8 +2,8 @@
 name: "Contact formulation for mixed finite element"
 speakers:
   - "Lukasz Kaczmarczyk"
-  - "Chris Pearce University of Glasgow"
-  - "Andrei Shvarts University of Glasgow"
+  - "Chris Pearce"
+  - "Andrei Shvarts"
 categories:
   - "Talk"
 ---

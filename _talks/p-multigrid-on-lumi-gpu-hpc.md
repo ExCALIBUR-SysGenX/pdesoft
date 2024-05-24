@@ -3,8 +3,8 @@ name: "p-multigrid on LUMI GPU HPC"
 speakers:
   - "Chris Richardson"
   - "Igor Baratta"
-  - "Joseph Dean"
-  - "Garth Wells"
+  - "Joseph P. Dean"
+  - "Garth N. Wells"
 categories:
   - "Talk"
 ---

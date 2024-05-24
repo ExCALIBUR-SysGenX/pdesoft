@@ -11,6 +11,7 @@
   {{ content }}
 
   {% for main_category in site.conference.talks.main_categories %}
+    {% if main_category.hide != true %}
     <h3 class="mt-4 mb-3">
       <span class="badge border-soft-{{ main_category.color }} bg-soft-{{ main_category.color }} d-block d-sm-inline text-wrap">
         {{ main_category.name }}
@@ -107,6 +108,7 @@
         {%- endfor -%}
       {%- endfor %}
     </ul>
+    {% endif %}
   {%- endfor -%}
 
 {% include partials/footer.html %}

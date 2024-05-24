@@ -13,10 +13,21 @@
       {{- speaker_short -}}
     </a>
   {%- endif -%}
+  {%- if speaker.affiliation -%}
+    &nbsp;({{speaker.affiliation}})
+  {%- endif -%}
 
+
+  {%- if forloop.first %}
+    {%- if speaker.website -%}
+      <a href='{{speaker.website}}'>{{speaker.website}}</a>
+    {%- endif -%}
+    <br />
+  {%- else -%}
   {%- unless forloop.last %}
     {%- assign forloop_index_before_last = talk.speakers.size | minus: 1 -%}
     {% if forloop.index == forloop_index_before_last and include.text_only %} {{ site.data.lang[site.conference.lang].pronoun.and | default: 'and' }} {% else %}, {% endif -%}
   {%- endunless -%}
+  {%- endif -%}
 
 {%- endfor -%}

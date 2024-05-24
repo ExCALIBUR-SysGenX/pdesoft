@@ -122,16 +122,18 @@ conference:
     hidden: false
     # Talk categories
     main_categories:
-      - name: Talk
-        color: warning
       - name: Invited talk
         color: success
+      - name: Talk
+        color: warning
       - name: Social
         color: danger
       - name: Other
         color: secondary
+        hide: true
       - name: Session title
         color: light
+        hide: true
 
     # Hide icons on talk overview page
     hide_icons: false

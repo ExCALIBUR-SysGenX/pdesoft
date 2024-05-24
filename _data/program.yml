@@ -21,7 +21,7 @@ days:
     - name: "Full waveform inversion in Firedrake: checkpointing, sources and mesh parallelism"
       time_start: "11:00"
       time_end: "11:15"
-    - name: "INVITED TALK"
+    - name: "Invited talk on MFEM and CEED"
       time_start: "11:15"
       time_end: "12:15"
 
@@ -91,7 +91,7 @@ days:
       time_start: "10:30"
       time_end: "10:45"
 
-    - name: "INVITED TALK"
+    - name: "Invited talk on MOOSE and ECP"
       time_start: "11:15"
       time_end: "12:15"
 
@@ -158,7 +158,7 @@ days:
       time_start: "10:30"
       time_end: "10:45"
 
-    - name: "INVITED TALK"
+    - name: "Invited talk on NetGen/NGSolve"
       time_start: "11:15"
       time_end: "12:15"
 

@@ -19,6 +19,7 @@
     </h3>
     <ul class="list-unstyled">
       {% for talk in site.talks -%}
+        {%- if talk.hide != true -%}
         {%- for cat in talk.categories -%}
           {%- if cat == main_category.name -%}
             {%- assign main_cat = main_category.name -%}
@@ -27,54 +28,11 @@
                 {% include partials/show_talk.html %}
               </p>
               <p class="font-weight-light mb-0">
-                {% include partials/list_speakers.html %}
+                {% include partials/list_first_speaker.html %}
               </p>
 
-              {% if talk.hide -%}
-                {%- assign talk_scheduled = false -%}
-                {%- for d in site.data.program.days -%}
-                  {%- include partials/get_day_hash.html -%}
-                  {%- for r in d.rooms -%}
-                    {%- assign room = site.rooms | where: 'name', r.name | first -%}
-                    {%- for t in r.talks -%}
-                      {%- if talk.name == t.name -%}
-                        <p class="mb-0">
-
-                          {%- if site.conference.live -%}
-                            {%- include partials/get_talk_timestamp.html -%}
-                            <span class="live-hide" data-start="{{ timestamp_start }}" data-end="{{ timestamp_end }}">
-                          {%- endif -%}
-
-                          {%- include partials/get_time_pronoun.html -%}
-                          {%- include partials/get_talk_time.html -%}
-                          {{- time_pronoun }} {% include partials/show_talk_time.html %}
-
-                          {%- if site.conference.live -%}
-                            </span>
-                            {%- include partials/show_live_button.html -%}
-                          {%- endif %}
-
-                          {{ site.data.lang[site.conference.lang].pronoun.in | default: "in" }} {% include partials/show_room.html -%}
-                        </p>
-
-                        {%- assign talk_scheduled = true -%}
-                        {%- break -%}
-                      {%- endif -%}
-                    {%- endfor -%}
-
-                    {%- if talk_scheduled -%}
-                      {%- break -%}
-                    {%- endif -%}
-                  {%- endfor -%}
-
-                  {%- if talk_scheduled -%}
-                    {%- break -%}
-                  {%- endif -%}
-                {%- endfor -%}
-              {%- endif %}
-
               <p class="mb-0">
-                {%- if site.conference.live and talk.hide != true -%}
+                {%- if site.conference.live -%}
                   {% for d in site.data.program.days -%}
                     {%- for r in d.rooms -%}
                       {%- for t in r.talks -%}
@@ -106,6 +64,7 @@
             {%- break -%}
           {%- endif -%}
         {%- endfor -%}
+        {%- endif -%}
       {%- endfor %}
     </ul>
     {% endif %}

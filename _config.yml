@@ -67,8 +67,8 @@ conference:
       img: 'excalibur-logo-1018-mini.png'
       url: 'https://excalibur-sysgenx.github.io/'
     links:
-      # - name: Programme
-      #   relative_url: /program/
+       - name: Programme
+         relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers

@@ -38,6 +38,10 @@ PDESoft 2018 in Bergen.
 
 &nbsp;
 
+## Schedule
+
+The full schedule for PDESoft 2024 can be found on the [programme page](/program).
+
 ## Talks and posters
 
 ### Invited speakers

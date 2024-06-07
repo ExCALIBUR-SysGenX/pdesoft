@@ -3,8 +3,10 @@ layout: page
 title: Registration
 ---
 
+**The registration deadline has been extended to 15 June.**
+
 Registration to attend PDESoft 2024 is open, and can be completed via the
-**[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)**. Registrations will close on **31 May 2024**.
+**[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)**. Registrations will close on **15 June 2024**.
 If you are a member of the University of Cambridge, please get in touch with the organisers directly about internal payment.
 
 Registration includes:

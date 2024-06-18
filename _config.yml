@@ -104,12 +104,12 @@ conference:
       #   absolute_url: 'https://www.cam.ac.uk'
 
   # Information boxes
-  info_bars:
-    - title: Registration open
-      color: primary
-      main_only: true
-      text: |
-            Registration is open at the **[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)** until 15 June.
+  #info_bars:
+    #- title: Registration open
+    #  color: primary
+    #  main_only: true
+    #  text: |
+    #        Registration is open at the **[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)** until 15 June.
 
     #     ---
 

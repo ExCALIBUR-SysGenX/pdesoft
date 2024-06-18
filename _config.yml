@@ -77,7 +77,7 @@ conference:
         relative_url: /registration/
       - name: Travel and accommodation
         relative_url: /location/
-      - name: Talk/poster submission
+      - name: Poster submission
         relative_url: /submit/
       - name: Code of conduct
         relative_url: /code-of-conduct/

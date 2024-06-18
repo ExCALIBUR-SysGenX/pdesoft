@@ -1,0 +1,8 @@
+<div id='habs-{{ include.id }}' style='display:block'>
+<a href='javascript:show_abs("{{ include.id }}")' style='font-size:80%'>&darr; Show abstract &darr;</a>
+</div>
+<div id='abs-{{ include.id }}' style='display:none'>
+{{ include.abstract }}
+<br />
+<a href='javascript:hide_abs("{{ include.id }}")' style='font-size:80%'>&uarr; Hide abstract &uarr;</a>
+</div>

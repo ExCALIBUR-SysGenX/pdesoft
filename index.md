@@ -64,11 +64,9 @@ range of scientific areas and backgrounds.
 ### Proceedings
 
 A topical collection for PDESoft is planned to be included in the new journal
-[Computational Science and
-Engineering](https://link.springer.com/journal/44207), which has a
-focus on reproducibility with code review. We hope that many
-participants in the PDESoft conference will be able to
-contribute.
+[Computational Science and Engineering](https://link.springer.com/journal/44207),
+which has a focus on reproducibility with code review. We hope that many
+participants in the PDESoft conference will be able to contribute.
 
 &nbsp;
 

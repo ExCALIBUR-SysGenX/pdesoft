@@ -25,7 +25,7 @@ session: "from 17:00"
     affiliation="Imperial College London"
     github="connorjward"
     email="c.ward20@imperial.ac.uk"
-    coauthors="David Ham (Imperial College London), Jack Betteridge (Imperial College London)"
+    coauthors="David Ham (Imperial College London)<br />Jack Betteridge (Imperial College London)"
     abstract="The execution of compact computational kernels is ubiquitous in continuum mechanics simulations. These \"local\" kernels, often hand-written, are executed repeatedly as part of an outer loop over (usually) the cells or facets of the mesh, with the relevant parts of the global data structures loaded into local temporaries as required.
 
 Whilst initially appearing to be a simple task, this pack/unpack execution model is surprisingly complicated. Performance portability considerations often require intrusive changes (e.g. data layout transformations, different programming languages, manual vectorisation) that would require either rewriting the outer loop time and time again or sacrificing performance.
@@ -38,7 +38,7 @@ In this work we present pyop3, a new framework for handling mesh iteration probl
     title="Developing computational liquid-metal MHD capabilities for fusion applications"
     author="Rupert Eardley-Brunt"
     affiliation="UKAEA (United Kingdom Atomic Energy Authority)"
-    coauthors="Aleksander J Dubas (UKAEA), Andrew Davis (UKAEA)"
+    coauthors="Aleksander J Dubas (UKAEA)<br />Andrew Davis (UKAEA)"
     abstract="Fusion power is being targeted as a major energy source for the future, promising clean, sustainable power, however many challenges remain in the design of magnetic confinement fusion devices as they scale from experimental tokamaks to power plants. A key part of tackling these challenges is developing the computational capability to simulate integrated components using multiphysics approaches. Building high fidelity simulations with multiple physics domains coupled together will enhance predictive modelling and in silico design, but incorporating highly scalable open-source solvers across many disciplines of physics into multiphysics packages remains a major practical challenge. A particular area of interest is liquid-metal magnetohydrodynamics (MHD), dominating the behaviour of conducting flows in liquid metal breeder designs due to the proximity to the strong magnetic fields of the tokamak. This work outlines ongoing investigations into suitable existing codes for liquid metal MHD, as well as the development of potential alternatives, with the ultimate goal of targeting efficient exascale computations and coupling to other physics such as electromagnetism in neighbouring domains, heat transfer, and tritium breeding and transport."
 %}
 

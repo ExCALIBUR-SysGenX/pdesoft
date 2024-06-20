@@ -67,8 +67,8 @@ conference:
       img: 'excalibur-logo-1018-mini.png'
       url: 'https://excalibur-sysgenx.github.io/'
     links:
-      - name: Programme
-        relative_url: /program/
+      - name: Schedule
+        relative_url: /schedule/
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
@@ -164,7 +164,7 @@ conference:
 
   program:
     # URL of program page
-    url: '/program'
+    url: '/schedule'
 
     # Time steps in program table
     time_steps: 15 # in minutes

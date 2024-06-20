@@ -40,31 +40,23 @@ PDESoft 2018 in Bergen.
 
 ## Schedule
 
-The full schedule for PDESoft 2024 can be found on the [programme page](/program).
+The schedule features three invited speakers:
+
+* [Joachim Schöberl](https://www.asc.tuwien.ac.at/~schoeberl/wiki/index.php/Joachim_Sch%C3%B6berl)
+  (TU Wien) will be speaking about Netgen/NGSolve;
+* [April Novak](https://npre.illinois.edu/people/profile/ajnovak2)
+  (University of Illinois, Urbana-Champaign) will be speaking about
+  MOOSE and ECP;
+* [Tzanio Kolev](https://people.llnl.gov/kolev1) (LLNL)
+  will talk about  MFEM and CEED.
+
+Alongside these speakers, there are 36 contributed talks on a range of topics.
+The full schedule for PDESoft 2024 can be found on the [schedule page](/schedule).
+
 
 &nbsp;
 
-## Talks and posters
-
-### Invited speakers
-
-We are pleased to announce that [Joachim
-Schöberl](https://www.asc.tuwien.ac.at/~schoeberl/wiki/index.php/Joachim_Sch%C3%B6berl)
-(TU Wien) will be speaking about Netgen/NGSolve,
-and [April Novak](https://npre.illinois.edu/people/profile/ajnovak2)
-(University of Illinois, Urbana-Champaign) will be speaking about
-MOOSE and ECP. [Tzanio Kolev](https://people.llnl.gov/kolev1) (LLNL)
-will talk about  MFEM and CEED.
-
-### Submitting a presentation
-To present a poster at PDESoft 2024, use the [form on the
-Talk/poster submission page](/submit/).
-Submissions for talks are now closed. PDESoft 2024 will emphasise an
-open and inclusive atmosphere, and we encourage proposals from a diverse
-range of scientific areas and backgrounds.
-
-### Proceedings
-
+## Proceedings
 A topical collection for PDESoft is planned to be included in the new journal
 [Computational Science and Engineering](https://link.springer.com/journal/44207),
 which has a focus on reproducibility with code review. We hope that many

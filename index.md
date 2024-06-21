@@ -66,12 +66,7 @@ participants in the PDESoft conference will be able to contribute.
 
 ## Registration
 
-**The registration deadline has been extended to 15 June.**
-
-Registration to attend PDESoft 2024 is open, and can be completed via the
-**[University of Cambridge shop](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-engineering/pde-soft/pdesoft-1-3-july-2024)**.
-Registrations will close on **15 June 2024**.
-Registration includes:
+Registration to attend PDESoft 2024 is now closed. Registration includes:
 
 * Attendance at all conference sessions.
 * Lunches at the Møller Institute.

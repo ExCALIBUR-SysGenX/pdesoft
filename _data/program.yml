@@ -88,7 +88,7 @@ days:
       time_start: "10:15"
       time_end: "10:30"
 
-    - name: "Cardinal: Integrating Nuclear Engineering Exascale Solvers with the MOOSE Ecosystem"
+    - name: "Cardinal: Integrating nuclear engineering exascale solvers with the MOOSE ecosystem"
       time_start: "11:15"
       time_end: "12:15"
 

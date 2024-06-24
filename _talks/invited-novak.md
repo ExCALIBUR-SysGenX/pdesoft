@@ -1,5 +1,5 @@
 ---
-name: "Cardinal: Integrating Nuclear Engineering Exascale Solvers with the MOOSE Ecosystem"
+name: "Cardinal: Integrating nuclear engineering exascale solvers with the MOOSE ecosystem"
 speakers:
   - "April Novak"
 categories:

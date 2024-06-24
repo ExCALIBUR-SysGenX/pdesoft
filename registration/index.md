@@ -17,7 +17,7 @@ Accommodation is not included in the conference fee.
 More information can be found on the [travel and accommodation page](/location).
 
 ## Conference dinner
-The conference dinner will be help on 1 July in the dining hall at Magdalene College.
+The conference dinner will be held on 1 July in the dining hall at Magdalene College.
 There is no formal dress code for the dinner, but we recommend something approximating
 "smart casual".
 

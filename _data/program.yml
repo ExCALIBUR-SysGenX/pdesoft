@@ -107,7 +107,7 @@ days:
     - name: "High-order discontinuous Galerkin multigrid solvers for ExaHyPE"
       time_start: "14:30"
       time_end: "14:45"
-    - name: "High-order, structure-preserving schemes on GPU architectures in FEniCSx"
+    - name: "Solving mixed-domain problems in FEniCSx"
       time_start: "14:45"
       time_end: "15:00"
 

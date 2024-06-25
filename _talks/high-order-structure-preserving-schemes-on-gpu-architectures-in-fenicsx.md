@@ -2,7 +2,7 @@
 name: "Solving mixed-domain problems in FEniCSx"
 speakers:
   - "Joseph P. Dean"
-  - "Jørgen S. Dokken"
+  - "Jørgen Schartum Dokken"
   - "Garth N. Wells"
 categories:
   - "Talks"

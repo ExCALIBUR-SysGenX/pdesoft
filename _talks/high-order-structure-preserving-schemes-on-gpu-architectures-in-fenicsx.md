@@ -15,4 +15,4 @@ We present recent developments in the FEniCSx core libraries, inspired by some p
 
 We show several examples with application to magnetohydrodynamics, hybridised discontinuous Galerkin methods, and problems with Neumann boundary conditions. Performance results are also presented.
 
-[1] Cécile Daversin-Catty, Chris N. Richardson, Ada J. Ellingsrud, and Marie E. Rognes. 2021. Abstractions and Automated Algorithms for Mixed Domain Finite Element Methods. ACM Trans. Math. Softw. 47, 4, Article 31 (December 2021). https://doi.org/10.1145/3471138
+[1] Cécile Daversin-Catty, Chris N. Richardson, Ada J. Ellingsrud, and Marie E. Rognes. 2021. Abstractions and Automated Algorithms for Mixed Domain Finite Element Methods. ACM Trans. Math. Softw. 47, 4, Article 31 (December 2021). [doi.org/10.1145/3471138](https://doi.org/10.1145/3471138)

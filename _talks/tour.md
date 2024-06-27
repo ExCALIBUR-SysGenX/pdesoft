@@ -1,5 +1,5 @@
 ---
-name: "Conference dinner"
+name: "Tour of central Cambridge"
 speakers: ""
 categories:
   - Social

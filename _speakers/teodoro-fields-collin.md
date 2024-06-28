@@ -1,5 +1,6 @@
 ---
 name: "Teodoro Fields Collin"
+affiliation: "MIT"
 first_name: "Teodoro"
 last_name: "Collin"
 website: "https://people.csail.mit.edu/teoc/"

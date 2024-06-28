@@ -1,5 +1,6 @@
 ---
 name: "Nacime Bouziani"
+affiliation: Imperial College London
 first_name: "Nacime"
 last_name: "Bouziani"
 website: "https://www.imperial.ac.uk/people/n.bouziani18"

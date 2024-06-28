@@ -1,7 +1,7 @@
 ---
 name: "Gilbert Bernstein"
+affiliation: University of Washington
 first_name: "Gilbert"
 last_name: "Bernstein"
-affiliation: "University of Washington"
 hide: true
 ---

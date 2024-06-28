@@ -1,5 +1,6 @@
 ---
 name: "Jørgen Schartum Dokken"
+affiliation: Simula Research Laboratory
 first_name: "Jørgen"
 last_name: "Dokken"
 website: "https://jsdokken.com"

@@ -1,5 +1,6 @@
 ---
 name: "Daniel Doehring"
+affiliation: RWTH Aachen University
 first_name: "Daniel"
 last_name: "Doehring"
 website: "https://www.acom.rwth-aachen.de/the-lab/team-people/name:daniel_doehring"

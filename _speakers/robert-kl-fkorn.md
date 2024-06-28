@@ -1,5 +1,6 @@
 ---
 name: "Robert Klöfkorn"
+affiliation: Lund University
 first_name: "Robert"
 last_name: "Klöfkorn"
 website: "https://portal.research.lu.se/en/persons/robert-kl%C3%B6fkorn"

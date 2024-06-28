@@ -1,5 +1,6 @@
 ---
 name: "Nirav Vasant Shah"
+affiliation: University of Cambridge
 first_name: "Nirav"
 last_name: "Shah"
 github: "niravshah241"

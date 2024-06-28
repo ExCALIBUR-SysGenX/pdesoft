@@ -1,5 +1,6 @@
 ---
 name: "Benjamin Terschanski"
+affiliation: RWTH Aachen University
 first_name: "Benjamin"
 last_name: "Terschanski"
 website: "https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~skcir/Benjamin-Leon-Terschanski/lidx/1/"

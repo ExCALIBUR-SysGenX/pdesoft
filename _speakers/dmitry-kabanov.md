@@ -1,5 +1,6 @@
 ---
 name: "Dmitry Kabanov"
+affiliation: University of Münster
 first_name: "Dmitry"
 last_name: "Kabanov"
 website: "dmitrykabanov.com"

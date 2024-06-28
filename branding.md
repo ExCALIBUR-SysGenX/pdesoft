@@ -1,5 +1,6 @@
 ---
 layout: home
+title: PDESoft Branding
 ---
 
 ## PDESoft logo

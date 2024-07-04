@@ -1,5 +1,7 @@
 # jekyll-theme-conference
 
+*This repo is based on [DigitaleGesellschaft/jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference)*
+
 ![Screenshot](screenshot.png)
 
 This is a responsive [Jekyll](http://jekyllrb.com) theme based on [Bootstrap 4](http://getbootstrap.com) for conferences. It contains

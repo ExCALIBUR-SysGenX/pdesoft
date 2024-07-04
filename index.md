@@ -53,6 +53,11 @@ The schedule features three invited speakers:
 Alongside these speakers, there were 36 contributed talks on a range of topics.
 The full schedule for PDESoft 2024 can be found on the [schedule page](/schedule).
 
+&nbsp;
+
+## Photos
+
+Many photos that were taken during PDESoft 2024 have been posted on the conference's [LinkedIn page](https://www.linkedin.com/company/pdesoft-2024/).
 
 &nbsp;
 

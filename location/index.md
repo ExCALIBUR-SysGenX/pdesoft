@@ -3,7 +3,7 @@ layout: location
 title: Travel and accommodation
 ---
 
-The conference will be located in the [Møller Institute](https://www.mollerinstitute.com/conference-centre/) at Churchill College, Storey's Way, Cambridge CB3 0DE, UK.
+The conference took place at the [Møller Institute](https://www.mollerinstitute.com/conference-centre/) at Churchill College, Storey's Way, Cambridge CB3 0DE, UK.
 
 ## Travel to UK
 

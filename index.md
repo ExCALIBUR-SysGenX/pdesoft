@@ -29,7 +29,7 @@ Areas of focus include:
 * user interfaces to scientific software
 * any other part of the PDE toolchain
 
-PDESoft 2024 will be held at the [Møller Institute](/location/), Churchill
+PDESoft 2024 was be held at the [Møller Institute](/location/), Churchill
 College, Cambridge.
 
 PDESoft 2024 follows in the successful footsteps of PDESoft 2012 in
@@ -43,14 +43,14 @@ PDESoft 2018 in Bergen.
 The schedule features three invited speakers:
 
 * [Joachim Schöberl](https://www.asc.tuwien.ac.at/~schoeberl/wiki/index.php/Joachim_Sch%C3%B6berl)
-  (TU Wien) will be speaking about Netgen/NGSolve;
+  (TU Wien) spoke about Netgen/NGSolve;
 * [April Novak](https://npre.illinois.edu/people/profile/ajnovak2)
-  (University of Illinois, Urbana-Champaign) will be speaking about
+  (University of Illinois, Urbana-Champaign) spoke about
   MOOSE and ECP;
 * [Tzanio Kolev](https://people.llnl.gov/kolev1) (LLNL)
-  will talk about  MFEM and CEED.
+  spoke about MFEM and CEED.
 
-Alongside these speakers, there are 36 contributed talks on a range of topics.
+Alongside these speakers, there were 36 contributed talks on a range of topics.
 The full schedule for PDESoft 2024 can be found on the [schedule page](/schedule).
 
 
@@ -78,16 +78,13 @@ More information can be found on the [registrations page](/registration).
 
 ## Travel and accommodation
 
-Accommodation is not included in the conference fee. We recommend one of the following options:
+Accommodation was not included in the conference fee. We recommended one of the following options:
 
-* A limited number of rooms are available at the Møller Institute: email
-  [Moller.Reception@chu.cam.ac.uk](Moller.Reception@chu.cam.ac.uk), quoting the reference **KX 50727**.
-* The [Hyatt Centric](https://www.hyatt.com/shop/rooms/stnct?location=Hyatt%20Centric%20Cambridge&checkinDate=2024-06-30&checkoutDate=2024-07-02&rooms=1&adults=1&kids=0&corp_id=G-ENG1)
-  is a 15 minute walk from the conference venue.
-
+* A limited number of rooms were available at the Møller Institute
+* The [Hyatt Centric](https://www.hyatt.com/shop/rooms/stnct?location=Hyatt%20Centric%20Cambridge), a 15 minute walk from the conference venue.
 * [Premier Inn Cambridge North](https://www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-north-girton.html)
 
-The conference will begin at 10:00am BST on Monday 1 July and will end at 3:00pm BST on Wednesday 3 July.
+The conference began at 10:00am BST on Monday 1 July and ended at 3:00pm BST on Wednesday 3 July.
 The Møller Institute is easily reachable from Cambridge rail station by bus or taxi.
 
 More information can be found on the [travel and accommodation page](/location).
